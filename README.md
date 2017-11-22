@@ -2,9 +2,9 @@
 
 Detection of TOR Network connections through different methods analyzing a PCAP capture file.
 
-- Connection to exit nodes
-- Detection of TOR standard ports
-- Identification of non-standard digital certificates
+- Connection to exit nodes.
+- Detection of TOR standard ports.
+- Identification of non-standard digital certificates.
 
 REQUIREMENTS:
 
@@ -14,4 +14,4 @@ REQUIREMENTS:
 
 USAGE: 
 
-user@linux:~/# python tordetect.py file.pcap'
+user@linux:~/# python tordetect.py file.pcap

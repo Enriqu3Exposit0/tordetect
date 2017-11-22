@@ -2,9 +2,9 @@
 
 Detection of TOR Network connections through different methods analyzing a PCAP capture file.
 
-1- Connection to exit nodes
-2- Detection of TOR standard ports
-3- Identification of non-standard digital certificates
+- Connection to exit nodes
+- Detection of TOR standard ports
+- Identification of non-standard digital certificates
 
 REQUIREMENTS:
 
